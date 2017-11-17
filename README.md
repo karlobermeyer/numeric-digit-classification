@@ -7,6 +7,7 @@ TensorFlow implementation of a deep CNN (Convolutional Neural Network) for class
 
 ## Table of Contents
 
+
 * Data
 * Viewing and Running the Notebook
 * Shutdown
